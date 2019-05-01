@@ -1,0 +1,5 @@
+﻿  OyunSistem.cpp
+c:\users\furkank\desktop\ascii_oyun\oyunsistem.cpp(95): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  ASCII_OYUN.cpp
+  Generating Code...
+  ASCII_OYUN.vcxproj -> C:\Users\FurkanK\Desktop\ASCII_OYUN\Debug\ASCII_OYUN.exe
